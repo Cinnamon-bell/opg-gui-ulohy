@@ -15,7 +15,7 @@ public class Controller {
     private ToggleGroup Pohlavie;
 
     @FXML
-    private PasswordField hesloField;
+    private TextField hesloField;
 
     @FXML
     public void registruj() {
